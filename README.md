@@ -22,9 +22,13 @@
 Brokkr is a discord bot created to to act as a quick refrence for the popular game [Dwarf Fortress](https://www.bay12games.com/dwarves/) which is available free for download.
 
 ## Features
+Features for Brokkr are still being fleshed out at this time. Below is a small idea of what would hopefully be included.
 
-To be annouced
+* Skill descriptions and what they do
+* Material descriptions
+* General help in which key presses to use
+* Much more
 
 ## Server Setup
 
-To be annouced
+Invite [Brokkr](https://discord.com/oauth2/authorize/?permissions=387136&scope=bot&client_id=767593088108724244) to your server. The bot is preconfigured with the messaging permissions it will require to function on your server. From there you will be able to create a custom prefix via `b.prefix <prefix>`. Running `b.help` will give you a list of commands available from Brokkr for you to use.
